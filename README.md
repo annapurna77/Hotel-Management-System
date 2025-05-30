@@ -73,4 +73,16 @@ ____
 
 🖼️ Screenshots
 
-![image alt]()
+![image alt](https://github.com/annapurna77/Hotel-Management-System/blob/main/output_screenshots/hotel_management.png)
+
+![image alt](https://github.com/annapurna77/Hotel-Management-System/blob/main/output_screenshots/add.png)
+
+![image alt](https://github.com/annapurna77/Hotel-Management-System/blob/main/output_screenshots/delete.png)
+
+![image alt](https://github.com/annapurna77/Hotel-Management-System/blob/main/output_screenshots/update.png)
+
+![image alt](https://github.com/annapurna77/Hotel-Management-System/blob/main/output_screenshots/display.png)
+
+![image alt](https://github.com/annapurna77/Hotel-Management-System/blob/main/output_screenshots/report.png)
+
+_____
